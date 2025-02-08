@@ -8,7 +8,9 @@ Welcome to my GitHub profile!
 ![Coding](https://github.com/user-attachments/assets/f69474ae-ce79-4bda-a579-3f516df094cf)
 <p align="center">
   <img alt="GitHub deployments" src="https://img.shields.io/github/deployments/ABSphreak/readme-jokes/Production?label=Production&style=flat-square"/>
- <img alt="GitHub deployments" src="https://img.shields.io/github/deployments/ABSphreak/readme-jokes/Preview?label=Testing&style=flat-square"/>
+  <img alt="GitHub deployments" src="https://img.shields.io/github/deployments/ABSphreak/readme-jokes/Preview?label=Testing&style=flat-square"/>
+  <img alt="GitHub issues" src="https://img.shields.io/badge/Issues-0-success?style=flat-square&logo=github"/>
+
 </p>
 
 - ⚡ I’m currently working on exciting tech projects
@@ -29,7 +31,7 @@ Welcome to my GitHub profile!
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="100">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="100">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="100">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="100">
+  <img src="https://github.com/user-attachments/assets/9f89bcf8-86cb-45b3-ac19-703710204b5f" width="100" >
 </div>
 
 ---
@@ -47,5 +49,6 @@ Welcome to my GitHub profile!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bjoseph23&rank=-?&column=7&margin-w=15&margin-h=15)](https://github.com/bjoseph23/github-profile-trophy)
 
----
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b0128256-4f4d-45e4-9cbe-b58732c5e9d0" alt="My GitHub Banner" width="80%">
+</p>
