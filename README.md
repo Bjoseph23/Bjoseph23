@@ -5,8 +5,7 @@ Welcome to my GitHub profile!
 ---
 
 ## About Me
-
-[![Coding](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkwMzg2NzgsIm5iZiI6MTczOTAzODM3OCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjA4VDE4MTI1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAwOWM5ZjlmZDJhYWNlMjk2MzhjYjk2ZmRlZTdhNjYzNzNmMGI5NjAyMGE0MGM5NGE2ZWEyOTUxNGMxMDU5ZGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.FLnsvlfkWfNHBuVUGbsTl3xh2qHwAvLuzVP9taVA3TU)](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)
+![Coding](https://github.com/user-attachments/assets/f69474ae-ce79-4bda-a579-3f516df094cf)
 <p align="center">
   <img alt="GitHub deployments" src="https://img.shields.io/github/deployments/ABSphreak/readme-jokes/Production?label=Production&style=flat-square"/>
  <img alt="GitHub deployments" src="https://img.shields.io/github/deployments/ABSphreak/readme-jokes/Preview?label=Testing&style=flat-square"/>
