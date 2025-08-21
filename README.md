@@ -13,10 +13,9 @@ Welcome to my GitHub profile!
 
 </p>
 
-- ⚡ I’m currently working on exciting tech projects
-- 🌱 Continuosly learning new programming languages and frameworks
+- ⚡ I’m currently working on exciting tech projects and  open source frameworks
+- 🌱 Continuosly learning new frameworks
 - 🤖 Gen AI for everyone, everywhere!
-- 📧 Contact me: [typicalomondi@gmail.com](mailto:typicalomondi@gmail.com)
 - 😄 Fun fact: I don't see bugs as bugs, I see them as features.
 
 ---
