@@ -13,10 +13,10 @@ Welcome to my GitHub profile!
 
 </p>
 
-- ⚡ I’m currently working on exciting tech projects and  open source frameworks
-- 🌱 Continuosly learning new frameworks
-- 🤖 Gen AI for everyone, everywhere!
-- 😄 Fun fact: I don't see bugs as bugs, I see them as features.
+- I’m currently working on exciting tech projects and  open source frameworks
+- Continuosly learning new frameworks
+- Gen AI for everyone, everywhere!
+- Fun fact: I don't see bugs as bugs, I see them as features.
 
 ---
 
