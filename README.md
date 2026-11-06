@@ -39,16 +39,17 @@ Welcome to my GitHub profile!
 </p>
 
 ---
-## 📊 GitHub Stats
-
-| Top Languages | GitHub Stats |
-| :---: | :---: |
-| ![Top Langs](https://bjoseph23-readme-stats.onrender.com/api/top-langs?username=bjoseph23&layout=compact&theme=merko&hide_border=true) | ![Bill's GitHub stats](https://bjoseph23-readme-stats.onrender.com/api?username=bjoseph23&show_icons=true&theme=merko&hide_border=true) |
-
----
 
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bjoseph23&theme=merko&hide_border=true" alt="GitHub Streak"/>
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+| Top Languages | GitHub Stats |
+| :---: | :---: |
+| ![Top Langs](https://bjoseph23-readme-stats.onrender.com/api/top-langs?username=bjoseph23&layout=compact&theme=merko&hide_border=true) | ![Bill's GitHub stats](https://bjoseph23-readme-stats.onrender.com/api?username=bjoseph23&show_icons=true&theme=merko&hide_border=true) |
