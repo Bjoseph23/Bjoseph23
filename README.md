@@ -36,7 +36,7 @@ Welcome to my GitHub profile!
 
 | Top Languages | GitHub Stats |
 | :---: | :---: |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bjoseph23&layout=compact&theme=merko&hide_border=true) | ![Bill's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjoseph23&show_icons=true&theme=merko&hide_border=true) |
+| ![Top Langs](https://bjoseph23-readme-stats.onrender.com/api/top-langs?username=bjoseph23&layout=compact&theme=merko&hide_border=true) | ![Bill's GitHub stats](https://bjoseph23-readme-stats.onrender.com/api?username=bjoseph23&show_icons=true&theme=merko&hide_border=true) |
 
 ---
 
@@ -51,5 +51,5 @@ Welcome to my GitHub profile!
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bjoseph23&theme=algolia&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://bjoseph23-trophy.onrender.com/?username=bjoseph23&theme=algolia&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
