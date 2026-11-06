@@ -52,4 +52,4 @@ Welcome to my GitHub profile!
 
 | Top Languages | GitHub Stats |
 | :---: | :---: |
-| ![Top Langs](https://bjoseph23-readme-stats.onrender.com/api/top-langs?username=bjoseph23&layout=compact&theme=merko&hide_border=true) | ![Bill's GitHub stats](https://bjoseph23-readme-stats.onrender.com/api?username=bjoseph23&show_icons=true&theme=merko&hide_border=true) |
+| ![Top Langs](https://bjoseph23-readme-stats.onrender.com/api/top-langs?username=bjoseph23&layout=compact&theme=merko&hide_border=true) | ![Bill's GitHub stats](https://bjoseph23-readme-stats.onrender.com/api?username=bjoseph23&show_icons=true&theme=merko&hide_border=true&custom_title=Bill%27s%20GitHub%20Stats) |
