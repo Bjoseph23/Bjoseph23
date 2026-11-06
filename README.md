@@ -32,6 +32,13 @@ Welcome to my GitHub profile!
 </div>
 
 ---
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://bjoseph23-trophy.onrender.com/?username=bjoseph23&theme=algolia&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</p>
+
+---
 ## 📊 GitHub Stats
 
 | Top Languages | GitHub Stats |
@@ -44,12 +51,4 @@ Welcome to my GitHub profile!
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bjoseph23&theme=merko&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://bjoseph23-trophy.onrender.com/?username=bjoseph23&theme=algolia&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
